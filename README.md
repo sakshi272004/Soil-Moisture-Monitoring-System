@@ -8,10 +8,3 @@ Adafruit_Sensor library is used to handle the sensor data and ensure accurate mo
 This IoT-based solution helps optimize water usage, making it suitable for agricultural and gardening applications.
 The project demonstrates skills in sensor integration, wireless communication, and web development for real-time monitoring.
 
-Components:
-Arduino microcontroller
-Soil moisture sensor
-ESP8266 Wi-Fi module for wireless data transmission
-Libraries Used:
-ESPAsyncWebServer for web interface
-Adafruit_Sensor for sensor data handling
