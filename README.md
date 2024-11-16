@@ -1,2 +1,17 @@
 Soil Moisture Monitoring System
-This project implements a Smart Soil Moisture Monitoring System using an Arduino microcontroller and a soil moisture sensor. The system detects soil moisture levels and transmits the data wirelessly through the ESP8266 Wi-Fi module. A web interface, powered by ESPAsyncWebServer and Adafruit_Sensor, displays real-time moisture readings. This IoT-based solution can be used for automated irrigation, optimizing water usage in agricultural or gardening applications. The project demonstrates sensor interfacing, Wi-Fi communication, and web development, making it a scalable and efficient tool for soil condition monitoring.
+
+The project is a Smart Soil Moisture Monitoring System designed to detect soil moisture levels and enable automated irrigation.
+It uses an Arduino microcontroller in combination with a soil moisture sensor to monitor the soil's moisture content.
+The system transmits the moisture data wirelessly using the ESP8266 Wi-Fi module.
+The project utilizes the ESPAsyncWebServer library to display real-time moisture readings on a web interface.
+Adafruit_Sensor library is used to handle the sensor data and ensure accurate moisture measurements.
+This IoT-based solution helps optimize water usage, making it suitable for agricultural and gardening applications.
+The project demonstrates skills in sensor integration, wireless communication, and web development for real-time monitoring.
+
+Components:
+Arduino microcontroller
+Soil moisture sensor
+ESP8266 Wi-Fi module for wireless data transmission
+Libraries Used:
+ESPAsyncWebServer for web interface
+Adafruit_Sensor for sensor data handling
